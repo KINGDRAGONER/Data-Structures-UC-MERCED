@@ -1,0 +1,6 @@
+Input Size  Selection Sort  Insertion Sort  Quick Sort
+1K          2               0               0
+10K         269             170             2
+100K        33552           18665           30
+1M          -               -               1817
+10M         -               -               147927        
